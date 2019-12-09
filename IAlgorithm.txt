@@ -1,0 +1,4 @@
+public interface IAlgorithm{
+     public boolean run();
+     public String description();
+}
